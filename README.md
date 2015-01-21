@@ -1,0 +1,2 @@
+# genjs-doc
+GenJS documentation
